@@ -5,7 +5,7 @@
   <samp>alo 🇨🇱<samp> 
   <br>
   <br>
-    <img src="https://cdn.discordapp.com/attachments/852809959788118018/1079253708451352717/mcpfp_-_wixent.png"/>
+    <img src="https://cdn.discordapp.com/attachments/852809959788118018/1079253708451352717/mcpfp_-_wixent.png" width=100 style="border-radius: 10px" />
   <br>
   <samp> 
     <a href="https://discordapp.com/users/465166902939877376">Discord</a> •
