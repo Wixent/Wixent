@@ -9,7 +9,7 @@
   <br>
   <samp> 
     <a href="https://discordapp.com/users/465166902939877376">Discord</a> •
-    <a href="https://steamcommunity.com/profiles/76561199041523444">Steam</a> •
+    <a href="https://steamcommunity.com/profiles/wixent">Steam</a> •
     <a href="https://www.twitch.tv/wixent">Twitch</a>
   </samp>
   <br>
